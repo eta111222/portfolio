@@ -380,6 +380,15 @@ span{
     overflow:hidden;
 }
 
+.education-content .content a {
+    text-decoration:underline;
+    font-weight: bold; 
+}
+
+.education-content .content a:hover {
+    text-decoration: underline; 
+}
+
 .education-content .content::before{
     content: '';
     position: absolute;
