@@ -380,12 +380,14 @@ span{
     overflow:hidden;
 }
 
-.education-content .content  a {
-    text-decoration:underline;
-    font-weight: bold; 
+.education-content .content a {
+    font-size: 1rem;
+    text-decoration: none; 
+    font-weight: normal; 
+    margin-left: 10px;
 }
 
-.education-content .content  a:hover {
+.education-content .content a:hover {
     text-decoration: underline; 
 }
 
@@ -415,7 +417,7 @@ span{
     padding-right: .5rem;
 }
 
-.education-content .content a h3{
+.education-content .content h3{
     font-size: 2rem;
 }
 
