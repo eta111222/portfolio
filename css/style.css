@@ -380,12 +380,12 @@ span{
     overflow:hidden;
 }
 
-.education-content .content a {
+.education-content .content .h3 a {
     text-decoration:underline;
     font-weight: bold; 
 }
 
-.education-content .content a:hover {
+.education-content .content .h3 a:hover {
     text-decoration: underline; 
 }
 
